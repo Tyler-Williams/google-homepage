@@ -1,0 +1,127 @@
+.logo {
+    padding-top: 200px;
+}
+
+.search-bar {
+    margin-top: 50px;
+}
+
+.searchbar {
+    width: 60%;
+    padding: 10px;
+    border-width: 1px;
+    border-color: #f2f2f2;
+    box-shadow: 2px 4px 2px #f2f2f2;
+}
+
+.searchbar:hover {
+    box-shadow: 4px 8px 4px #f2f2f2;
+}
+
+#mic {
+    margin-left: -50px;
+    background: white;
+    border: none;
+}
+
+.sub-btn {
+    background: #f2f2f2;
+    border: none;
+    margin-top: 50px;
+    border-radius: 2px;
+    padding: 10px;
+    color: gray;
+}
+
+.sub-btn:hover {
+    border: solid;
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+
+footer {
+    background-color: #f2f2f2;
+    height: 45px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 10px;
+}
+
+.foot-links {
+    color: #757575;
+}
+
+.right-links {
+    float: right;
+}
+
+.right-links .foot-links {
+    margin-right: 40px;
+}
+
+.left-links {
+    float: left;
+}
+
+.left-links .foot-links {
+    margin-left: 40px;
+}
+
+.table-pic .sq {
+    background: #757575;
+    height: 8px;
+    width: 8px;
+    border-radius: 2px;
+    padding: 0px;
+}
+
+.pad {
+    background: white;
+    width: 2px;
+}
+
+.blank-row {
+    height: 2px;
+    background: white;
+}
+
+.table-pic {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.bell-background {
+    width: 30px;
+    height: 30px;
+    background: #757575;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.nav-links {
+    float: right;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.topbar {
+    height: 50px;
+    width: 100%;
+}
+
+.top-link {
+    color: #757575;
+    padding-right: 10px;
+}
+
+a {
+    cursor: hand;
+}
